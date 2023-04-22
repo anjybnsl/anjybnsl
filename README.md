@@ -1,6 +1,6 @@
   Hello, my name is Anjali, and I am looking to start a career in data analytics. I am in Accenture training program, a       comprehensive data analytics program from Accenture to learn the necessary skills and techniques for data analysis.
   
-  I have completed MCA in June,2023, want to pursuing a career in data science. I always had a strong interest in analyzing data and using it to drive decision-making.
+  I have completed MCA in June,2022, want to pursuing a career in data science. I always had a strong interest in analyzing data and using it to drive decision-making.
   
   I have hands-on experience with programming language such as Python and its Library. I have completed several data science projects that involved data cleaning, exploratory data analysis, Predictive modelling and data visualization.
   
